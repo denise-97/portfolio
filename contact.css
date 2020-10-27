@@ -1,0 +1,30 @@
+.navbar-brand{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.nav-link{
+    font-size: 20px;
+    
+}
+
+
+.container{
+    min-width: 100vw;
+    min-height: 100vh;
+    background-image: url("https://www.teahub.io/photos/full/315-3154845_daisy-flower-wallpaper-daisies-backgrounds.jpg");
+
+}
+
+h1 {
+   font-weight: bold;
+   font-size: 70px;
+   font-family: 'Shadows Into Light', cursive;
+}
+
+.col-sm-6 {
+    margin: 200px 0 0 0;
+    height: 400px;
+    background-color:  beige;
+    opacity: 0.7;
+}

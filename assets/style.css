@@ -1,0 +1,49 @@
+.navbar-brand{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.nav-link{
+    font-size: 20px;
+    
+}
+
+
+.container {
+    background-color: beige; 
+    opacity: 0.5;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    
+    
+}
+
+
+body {
+    background-image: url("https://pics.freeartbackgrounds.com/fullhd/White_Daisies_Background-1323.jpg");
+    
+   }
+
+#image {
+    width: 90%; 
+    height: 70%;
+    padding: 30px;
+}
+
+h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 50px;
+    font-size: 70px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+p {
+    padding: 100px;
+    height: 70%;
+    font-weight: bold;
+    font-size: 15px;
+
+}
